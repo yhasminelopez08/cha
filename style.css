@@ -1,0 +1,228 @@
+body{
+    background-size: cover;
+    background-color: white;
+}
+.navigation {
+    border: 10px solid white;
+    background-color: rgb(150, 47, 115);
+    width: fit-content;
+    float: left;
+    border-radius: 50px;
+    text-align: center;
+}
+.logo{
+    width: 100px;
+    border-radius: 50px;
+    margin: 10px;
+}
+.mini-button{
+    margin-left: -25px;
+}
+.nav{
+    text-decoration: none;
+    margin-left: -10px;
+    color: rgb(245, 249, 251);
+    background-color: rgb(11, 11, 11);
+    border-radius: 50px;
+    padding: 5px;
+}
+li{
+    margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+}
+.introduction
+{
+    position: absolute;
+    top: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+    color: rgb(238, 18, 154);
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.sideinfo
+{
+    float: right;
+    border: 10px solid rgba(9, 9, 9, 0.707);
+    border-radius: 50px;
+    background-color: rgb(206, 202, 202);
+    width: fit-content;
+    height: 500px;
+    font-size: 25px;
+    color: purple;
+    text-align: center;
+    padding: 10px;
+}
+.kyut
+{
+    width: 50px;
+    padding-left:125px ;
+    padding-top: 200px;
+    padding-bottom: 350px;
+    margin-top: 200px;
+}
+.chapter
+{
+    background-image: url("backgroundabout.jpeg");
+    margin: 10px;
+    margin-top: 70px;
+    border-radius: 70px;
+    font-size: 18px;
+    text-indent: 25px;    
+}
+.intro
+{
+    border: solid 5px black;
+    border-radius: 15px;
+    position: absolute;
+    right: 95px;
+    top: 180px;
+    width: fill;
+    height: cover;
+    padding:10px;
+    background-color: rgb(7, 7, 246);
+}
+.untro
+{
+    border: solid 5px black;
+    border-radius: 15px;
+    position: absolute;
+    right: 95px;
+    top: 180px;
+    width: fill;
+    height: cover;
+    padding:10px;
+    background-color: aqua;
+}
+.intro h3 
+{
+    font-family: sans-serif;
+    font-size: 20px
+}
+.intro h4 
+{
+    font-family: sans-serif;
+    font-size: 20px
+}
+b 
+{
+    color: blue
+}
+ul 
+{
+    color: black;
+    font-family: tahoma
+}
+ol 
+{
+    color: black;
+    text-indent: 25px;
+    font-family: tahoma
+}
+.moods 
+{
+    width: 50px;
+}
+.Skills
+{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 250px;
+    color: rgb(10, 10, 11);
+    background-image: url(backgroundkyut.jpg);
+    border-radius: 70px;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia;
+    border: 5px solid rgb(5, 5, 6);
+    position: absolute 
+}
+
+.contact
+{
+    height: 250px;
+    float: left;
+    letter-spacing: 4px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 250px;
+    width: fill;
+    font-size: 20px;
+    font-family: Georgia;
+    text-align: center;
+    padding: 150px;
+    padding-top: 45px;
+    background-image: url("backgroundkyut.jpg");
+    border-radius: 55px;
+    border: 5px solid rgb(5, 5, 6)    
+}
+.contact P1
+{
+    text-indent: 200px;
+    font-size: 20px;
+}
+.CONTACT
+{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 250px;
+    color: rgb(10, 10, 11);
+    background-image: url(backgroundkyut.jpg);
+    border-radius: 70px;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia;
+    border: 5px solid rgb(5, 5, 6);
+    position: absolute 
+}
+.education h3
+{
+    text-align: center;
+    color: blue;
+}
+.gallery
+{
+    width: 150px;
+    height: 80px;
+}
+.image
+{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 250px;
+    color: rgb(10, 10, 11);
+    background-image: url(backgroundkyut.jpg);
+    border-radius: 70px;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia;
+    border: 5px solid rgb(5, 5, 6);
+    position: absolute 
+}
+.ACHIEVEMENTS
+{
+    font-size
+    
+}
+.p
+{
+    font-size: larges;
+}
